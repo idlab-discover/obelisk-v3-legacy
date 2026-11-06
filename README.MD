@@ -1,4 +1,13 @@
-Obelisk Main Project
+> ⚠️ **DEPRECATION NOTICE**
+>
+> This repository **Obelisk Definitive Edition** also referred to as Obelisk v3 is archived and no longer actively maintained. 
+>
+> - **Obelisk Core:** Minimal maintenance only. See the [Obelisk Core Documentation](https://obelisk.pages.ilabt.imec.be/obelisk-core/obelisk-core.html).
+> - **Next-Gen Data Platform:** Active development has moved to **[Kvasir](https://kvasir.pages.ilabt.imec.be/kvasir-server/what-is-kvasir.html)**. Please use Kvasir for all new projects and feature work.
+
+---
+
+Obelisk
 =======================
 
 Monorepo for all things related to Obelisk Definitive Edition.
