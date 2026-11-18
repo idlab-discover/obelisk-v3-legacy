@@ -23,7 +23,7 @@ services:
         soft: 262144
         hard: 262144
   redis:
-    image: 'bitnami/redis:7.0'
+    image: 'soldevelo/redis:7.0'
     ports:
       - 6379:6379
     environment:
